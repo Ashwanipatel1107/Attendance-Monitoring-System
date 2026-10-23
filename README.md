@@ -100,7 +100,7 @@ GitHub does not reliably render MP4 files inline in a README. Open the linked vi
 
 ## Team and contributions
 
-This project was developed collaboratively by **Ashwani Patel** and **Anuj Bansal**. Update this section with the actual division of work before publishing if you want to document individual contributions accurately.
+This project was developed collaboratively by **Ashwani Patel** and **Anuj Bansal**.
 
 ## License
 
